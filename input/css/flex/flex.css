@@ -1,0 +1,48 @@
+.heading{
+    text-align: center;
+}
+
+/* .lotus{
+    width: 250px;
+} */
+.msg1, .msg2, .msg3{
+    padding: 5px;
+    margin: 10px;
+    text-transform: capitalize;
+    font-size: 16px;
+
+    
+}
+/* .lotus{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    
+} */
+
+.greet{
+    background-color: yellow;
+    /* padding: 10px; */
+    display: flex;
+    min-height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.msg1{
+    background-color: rgb(255, 127, 127);
+    min-height: 40px;
+}
+
+.msg2{
+    background-color: rgb(43, 182, 251);
+    min-height: 60px;
+    flex-shrink:2;
+}
+
+.msg3{
+    background-color: rgb(183, 106, 255);
+    min-height: 90px;
+}

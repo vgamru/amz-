@@ -1,0 +1,37 @@
+.heading{
+    text-align: center;
+}
+
+.lotus{
+    width: 250px;
+}
+.msg1, .msg2, .msg3{
+    padding: 10px;
+    margin: 20px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.lotus{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    z-index: 0;
+}
+
+.greet{
+    background-color: yellow;
+    padding: 10px;
+
+}
+
+.msg1{
+    background-color: rgb(255, 127, 127);
+}
+
+.msg2{
+    background-color: rgb(43, 182, 251);
+}
+
+.msg3{
+    background-color: rgb(183, 106, 255);
+}

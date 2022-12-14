@@ -1,0 +1,89 @@
+.table{
+
+    /* min-height: 400px; */
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+    /* position: relative;
+    border: 1px solid black;
+    border-radius: 5px;
+    max-width: fit-content; */
+    /* line-height: 1.6; */
+    
+    
+
+}
+
+
+
+.conditions-terms{
+    /* border: 1px solid rgb(240, 231, 231); */
+    /* padding: 10px; */
+    font-size: 16px;
+    max-width: fit-content;
+    /* box-sizing: border-box; */
+    
+}
+
+.password{
+    width: 100%;
+  box-sizing: border-box;
+  /* margin: 10px 0px; */
+  padding: 5px 0px;
+}
+.email{
+    width: 100%;
+  box-sizing: border-box;
+  padding: 5px 0px;
+
+}
+
+.data1{
+    padding: 20px;
+    position: relative;
+    border: 1px solid rgb(222, 214, 214);
+    border-radius: 5px;
+    max-width: fit-content; 
+    
+}
+
+.button{
+    width: 100%;
+  box-sizing: border-box;
+  /* margin: 10px 0px; */
+  padding: 5px 0px;
+  background-color: rgb(207, 148, 22);
+  border: 1px solid rgb(207, 148, 22);
+  border-radius: 4px;
+
+}
+
+.forget-passsword{
+    position: relative;
+    bottom:50px;
+    left: 140px;
+    
+}
+
+.btn{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px 0px;
+  background-color: rgb(153, 152, 148);
+  border: 1px solid rgb(153, 152, 148);
+  border-radius: 4px;
+
+
+}
+
+.new{
+    color: gray;
+}
+
+.foot, .heading, .tab{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    
+}
